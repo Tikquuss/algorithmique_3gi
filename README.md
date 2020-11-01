@@ -1,2 +1,1 @@
-# algorithmique_3gi
-Quelques tps d'algorithmique
+Practical work on Algorithmic (ENSPY/3GI).
